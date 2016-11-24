@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi All!
+
+This is my personal training material.
